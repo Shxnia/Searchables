@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1DD292E0-DE71-A962-20D4-C6629B6E28BB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Texts/Animals_eng.txt">
+    <Files>
+      <File FileName="Assets/Scripts/WordSearch/Global.cs" Line="19" Column="5" />
+      <File FileName="Assets/Scripts/WordSearch/WordSearchController.cs" Line="1633" Column="8" />
+      <File FileName="Assets/Scripts/WordSearch/AsyncTask.cs" Line="90" Column="41" />
+      <File FileName="Assets/Scripts/WordSearch/Utilities.cs" Line="121" Column="1" />
+      <File FileName="Assets/Scripts/GoogleMobileAds/Api/BannerView.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/WordSearch/WordList.cs" Line="1" Column="1" />
+      <File FileName="Assets/Texts/Animals_eng.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

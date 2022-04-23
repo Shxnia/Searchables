@@ -1,0 +1,244 @@
+Pez
+Tea
+Ada
+Ritz
+Twix
+Lays
+MNMs
+kido
+Kiwi
+Nuts
+gorp
+Meze
+Nerds
+Runts
+Rolos
+Flipz
+Oreos
+pocky
+Pizza
+Gulha
+Crepe
+Bonda
+Candy
+Fudge
+Atole
+Juice
+Kefir
+Apple
+Peach
+Plums
+Salsa
+Dolma
+Tapas
+Bagel
+Bread
+Pasta
+Arare
+Bacon
+Jerky
+Ramen
+Mounds
+Ho Hos
+Bugles
+Combos
+KitKat
+Fritos
+TimTam
+Riesen
+Waffle
+Pakora
+Cereal
+Geplak
+Nougat
+Toffee
+Cookie
+Pastry
+Scones
+Coffee
+Sikhye
+Banana
+Carrot
+Celery
+Grapes
+Orange
+Hummus
+Tahini
+Yogurt
+Houska
+Lavash
+Totopo
+Cheese
+Chifle
+Nachos
+Lavash
+Senbei
+Omelet
+Newtons
+ELFudge
+Funyuns
+Munchos
+Gushers
+Milanos
+Ruffles
+ChexMix
+Cheetos
+Doritos
+Pretzel
+Cokodok
+Brittle
+Pudding
+Gansito
+Churros
+Amazake
+Tejuino
+Ice pop
+Raisins
+Almonds
+Cashews
+Coconut
+Granola
+Leblebi
+Peanuts
+Popcorn
+Walnuts
+Khandvi
+Piattos
+Tempura
+Gua-bao
+Obatzda
+CornNuts
+popchips
+Donettes
+Triscuit
+Tostitos
+Whoppers
+SunChips
+Skittles
+Twinkies
+Snickers
+CheezIts
+Goldfish
+Pringles
+Takefive
+Gardetto
+Pancakes
+Doughnut
+Marzipan
+Panforte
+Chebakia
+Horchata
+Smoothie
+Cherries
+Crudites
+Honeydew
+Tostones
+Soy nuts
+scroggin
+Achappam
+Nian gao
+Flapjack
+Croutons
+Sandwich
+Tortilla
+Crackers
+Hardtack
+Corn dog
+Hot dogs
+Rold Gold
+Twizzlers
+Red Vines
+Slim Jims
+Baby Ruth
+Milky Way
+Take Five
+Starburst
+Croquette
+Bubblegum
+Chocolate
+Arrowroot
+Fruit bun
+Snack pie
+Milkshake
+Root beer
+Ice cream
+Milkshake
+Party mix
+Pine nuts
+Pistachio
+Rice cake
+Trail mix
+Sev mamra
+Buterbrod
+Croissant
+Corn nuts
+Pork rind
+ombay mix
+MikeandIke
+SwissRolls
+Almond Joy
+Heath Bars
+Chips Ahoy
+Wafer Roll
+Tele-bhaja
+Poffertjes
+Snack cake
+Tamagozake
+Fruit roll
+Watermelon
+Cereal bar
+Mixed nuts
+Unniyappam
+Energy bar
+Butterbrot
+Fried bake
+Corn chips
+Pita chips
+Dried fish
+JuniorMints
+Famous Amos
+Zebra Cakes
+Wheat Thins
+Pazham Pori
+Grass jelly
+Marshmallow
+Jaffa Cakes
+Fairy bread
+Malted milk
+Soft drinks
+Dried apple
+Dried fruit
+Kuzhalappam
+Onion rings
+Spring roll
+Kuzhiyappam
+Granola bar
+Banana chip
+Cheese puff
+Bagel chips
+Dried squid
+Cup Noodles
+ClubCrackers
+DovePromises
+Swedish Fish
+Nilla Wafers
+JellyBellies
+NestleCrunch
+TeddyGrahams
+Kettle Chips
+cheese balls
+Uzhunnu Vada
+Parippu Vada
+Khanom buang
+Cracker nuts
+Bitterballen
+Ginger snaps
+Banana boats
+Strawberries
+French fries
+Instant soup
+Tea sandwich
+Cream cheese
+Potato chips
+Rice cracker
+Soda cracker

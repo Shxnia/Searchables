@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 835d38ba9de04789946479206011a482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bg_resource_0
+  - first:
+      213: 21300002
+    second: bg_resource_1
+  - first:
+      213: 21300004
+    second: bg_resource_2
+  - first:
+      213: 21300006
+    second: bg_resource_3
+  - first:
+      213: 21300008
+    second: bg_resource_4
+  - first:
+      213: 21300010
+    second: bg_resource_5
+  - first:
+      213: 21300012
+    second: bg_resource_6
+  - first:
+      213: 21300014
+    second: bg_resource_7
+  - first:
+      213: 21300016
+    second: bg_resource_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_resource_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 281
+        width: 395
+        height: 416
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197.5, y: -180}
+        - {x: -197.5, y: 178}
+        - {x: -180.5, y: -208}
+      - - {x: -195.5, y: 208}
+        - {x: -180.5, y: -208}
+        - {x: -197.5, y: 178}
+      - - {x: 197.5, y: 208}
+        - {x: -180.5, y: -208}
+        - {x: -195.5, y: 208}
+      - - {x: 173.5, y: -208}
+        - {x: -180.5, y: -208}
+        - {x: 197.5, y: 208}
+      - - {x: 197.5, y: -190}
+        - {x: 173.5, y: -208}
+        - {x: 197.5, y: 208}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 501
+        width: 360
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: -120.5}
+        - {x: -180, y: 120.5}
+        - {x: 180, y: -120.5}
+      - - {x: 178, y: 120.5}
+        - {x: 180, y: -120.5}
+        - {x: -180, y: 120.5}
+      - - {x: 180, y: 118.5}
+        - {x: 180, y: -120.5}
+        - {x: 178, y: 120.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 709
+        width: 368.9487
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.4743, y: -215.5}
+        - {x: -184.4743, y: 126.5}
+        - {x: 181.5257, y: -215.5}
+      - - {x: -181.4743, y: 215.5}
+        - {x: 181.5257, y: -215.5}
+        - {x: -184.4743, y: 126.5}
+      - - {x: 184.5257, y: 215.5}
+        - {x: 181.5257, y: -215.5}
+        - {x: -181.4743, y: 215.5}
+      - - {x: 184.5257, y: -211.5}
+        - {x: 181.5257, y: -215.5}
+        - {x: 184.5257, y: 215.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 763
+        width: 360
+        height: 377
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: -175.5}
+        - {x: -180, y: 187.5}
+        - {x: -107, y: -188.5}
+      - - {x: -179, y: 188.5}
+        - {x: -107, y: -188.5}
+        - {x: -180, y: 187.5}
+      - - {x: 180, y: 188.5}
+        - {x: -107, y: -188.5}
+        - {x: -179, y: 188.5}
+      - - {x: 180, y: -188.5}
+        - {x: -107, y: -188.5}
+        - {x: 180, y: 188.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 8
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 205}
+        - {x: 4, y: 205}
+        - {x: -4, y: -205}
+      - - {x: -4, y: -205}
+        - {x: 4, y: 205}
+        - {x: 4, y: -205}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 17.07612
+        width: 395
+        height: 369.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197.5, y: -185.0381}
+        - {x: -197.5, y: 184.9619}
+        - {x: 197.5, y: -185.0381}
+      - - {x: 171.5, y: 184.9619}
+        - {x: 197.5, y: -185.0381}
+        - {x: -197.5, y: 184.9619}
+      - - {x: 197.5, y: 154.9619}
+        - {x: 197.5, y: -185.0381}
+        - {x: 171.5, y: 184.9619}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 410
+        width: 360
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: -186}
+        - {x: -180, y: 191}
+        - {x: -175, y: -191}
+      - - {x: 180, y: 191}
+        - {x: -175, y: -191}
+        - {x: -180, y: 191}
+      - - {x: 176, y: -191}
+        - {x: -175, y: -191}
+        - {x: 180, y: 191}
+      - - {x: 180, y: -190}
+        - {x: 176, y: -191}
+        - {x: 180, y: 191}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 261
+        width: 8
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 105}
+        - {x: 4, y: 105}
+        - {x: -4, y: -105}
+      - - {x: -4, y: -105}
+        - {x: 4, y: 105}
+        - {x: 4, y: -105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_resource_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 807.0761
+        width: 361
+        height: 332.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.5, y: -166.5381}
+        - {x: -180.5, y: 166.4619}
+        - {x: 180.5, y: -166.5381}
+      - - {x: 180.5, y: 166.4619}
+        - {x: 180.5, y: -166.5381}
+        - {x: -180.5, y: 166.4619}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bg_resource_2: 21300004
+      bg_resource_8: 21300016
+      bg_resource_4: 21300008
+      bg_resource_7: 21300014
+      bg_resource_1: 21300002
+      bg_resource_6: 21300012
+      bg_resource_3: 21300006
+      bg_resource_0: 21300000
+      bg_resource_5: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

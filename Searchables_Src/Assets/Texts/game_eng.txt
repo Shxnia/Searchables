@@ -1,0 +1,791 @@
+Fez
+MDK
+osu
+Zup
+NBA
+MUD
+GTR
+DayZ
+Doom
+Dune
+MDK2
+Nioh
+rage
+Ride
+Rust
+Yury
+ARMA
+Dirt
+Dota
+Grid
+Halo
+SWAT
+Deus
+Anno
+Braid
+Dofus
+Quake
+Smite
+Spore
+Thief
+Event
+Quake
+MUGEN
+Metro
+Cobalt
+Crysis
+Defcon
+Diablo
+Driver
+Gothic
+Portal
+Postal
+Rayman
+Sacred
+Unreal
+Crysis
+Driver
+Gothic
+Tribes
+Anubis
+Diablo
+Bastion
+Enclave
+Fallout
+Far Cry
+FlatOut
+Lineage
+Magicka
+OneShot
+Outcast
+Outlast
+Scrolls
+Sengoku
+SimCity
+Tropico
+Zoo Vet
+Fallout
+Far Cry
+FlatOut
+SimCity
+ZoMGman
+SimCity
+Banished
+The Club
+Factorio
+Firefall
+Fortnite
+Gunpoint
+Identity
+kkrieger
+Oxenfree
+Rec Room
+Ricochet
+Terraria
+The Ship
+The Sims
+Unturned
+Voxatron
+WildStar
+Victoria
+Alan Wake
+Astebreed
+Audiosurf
+Cities XL
+Contagion
+Damnation
+Deadlight
+Gone Home
+Gothic II
+Growtopia
+Half-Life
+Harvester
+Homeworld
+Max Payne
+Minecraft
+Overwatch
+ParaWorld
+RuneScape
+Scrapland
+SpaceChem
+Starbound
+StarCraft
+StarDrive
+True Love
+Undertale
+Wasteland
+ZooTycoon
+Audiosurf
+Democracy
+Half-Life
+Homeworld
+Wasteland
+AstroFire
+Ace Online
+Actua Pool
+AdvertCity
+Duke Nukem
+Eve Online
+The Forest
+Freelancer
+Guild Wars
+Insurgency
+Metal Gear
+MouseCraft
+Overgrowth
+PlanetSide
+Roundabout
+Starsector
+Stronghold
+The Sting
+Torchlight
+Transistor
+Trespasser
+berSoldier
+Darksiders
+Guild Wars
+Just Cause
+PlanetSide
+Saints Row
+Stronghold
+Dragon Age
+Fragmented
+MountBlade
+Saints Row
+Torchlight
+Alien Swarm
+Alpha Prime
+Antichamber
+Battleforge
+Borderlands
+Constantine
+Dead Island
+Dear Esther
+Delta Force
+Hogs of War
+Jade Empire
+Mass Effect
+Pony Island
+Titan Quest
+Tomb Raider
+White Night
+The Witcher
+Battlefield
+Borderlands
+Delta Force
+Mass Effect
+Africa Trail
+A Bird Story
+Call of Duty
+DragonStrike
+Empire Earth
+A Fairy Tale
+Icewind Dale
+atawa Shoujo
+NBA Hangtime
+Order of War
+Pixel Piracy
+Postal Redux
+Retrobooster
+Sonic Heroes
+Star Citizen
+System Shock
+World of Goo
+Action Quake
+A Hat in Time
+Ace Lightning
+Ace of Spades
+Advent Rising
+Assetto Corsa
+Axis Assassin
+A City Sleeps
+Beam Breakers
+Day of Defeat
+Empires Apart
+Endless Space
+Fiesta Online
+A Hat in Time
+Hotline Miami
+Jurassic Park
+Killing Floor
+Lovely Planet
+Mirror's Edge
+The Neverhood
+Path of Exile
+Resident Evil
+Silent Hunter
+Sleeping Dogs
+Zombie Driver
+Age of Empires
+Age of Wonders
+A Blind Legend
+A Bloody Night
+PUBG
+LOL
+Tao
+1942
+Golf
+Hook
+Ikki
+Kage
+Klax
+Spot
+Akira
+Argus
+Daiva
+Egypt
+Ikari
+Joust
+Layla
+Mappy
+Rambo
+Sqoon
+Titan
+8 Eyes
+Abadox
+Arctic
+Athena
+Banana
+Batman
+Contra
+Flappy
+Galaga
+Geimos
+Gojira
+Hatris
+Honmei
+Jangou
+Karnov
+MagMax
+Mashou
+Mother
+Paaman
+Pooyan
+Popeye
+Quarth
+Quinty
+Shogun
+Soccer
+SonSon
+Tennis
+Tetris
+Ultima
+Willow
+Airwolf
+BWings
+Baltron
+Cocoron
+Deja Vu
+Dig Dug
+Elysion
+Exerion
+Ferrari
+Flipull
+Goal
+Goonies
+Gradius
+Guevara
+Gun Hed
+GunNac
+GunDec
+Jongbou
+Jyuouki
+Lot Lot
+Mahjong
+PacMan
+Pinball
+Puzzlot
+Puzznic
+Rampart
+RoboCop
+Rockman
+Sky Kid
+Thexder
+Top Gun
+TwinBee
+Warpman
+Xevious
+WildStar
+Arkanoid
+Artelius
+Baseball
+Cadillac
+Conflict
+DeBlock
+Devilman
+Dezaemon
+Die Hard
+Doraemon
+Faxanadu
+Galaxian
+Gimmick
+Gyrodine
+Hebereke
+Hostages
+Karateka
+Mad City
+MahaRaja
+MoaiKun
+Monopoly
+PacLand
+Pachicom
+Paperboy
+Predator
+Seicross
+Shanghai
+Shikinjo
+Solstice
+Stargate
+Superman
+Wasteland
+Armadillo
+Bird Week
+Bomberman
+Dark Lord
+Datsugoku
+Door Door
+Dough Boy
+Duck Hunt
+Exed Exes
+F1 Circus
+FC Genjin
+Final Lap
+Gun Sight
+Hydlide
+Kujaku Ou
+Labyrinth
+Metal Max
+Millipede
+MiniPutt
+Navy Blue
+Ninja Kun
+Palamedes
+Pizza Pop
+Puyo Puyo
+Raf World
+Sekiryuou
+Spartan
+Spelunker
+Star Wars
+Star Wars
+Time Zone
+Top Rider
+TwinBee 3
+Ballblazer
+Booby Kids
+BurgerTime
+Captain Ed
+Challenger
+Choplifter
+Cross Fire
+Dash Yarou
+Dig Dug II
+Excitebike
+Front Line
+Game Party
+Gradius II
+Great Deal
+Great Tank
+Hector
+Holy Diver
+Hototogisu
+Igo Meikan
+Igo Shinan
+Insector
+Just Breed
+Kyonshis
+Lunar Ball
+Mach Rider
+Magic John
+MakaiMura
+Mappy Kids
+MappyLand
+Metal Gear
+Mindseeker
+Mitokoumon
+Money Game
+Outlanders
+Robot Gyro
+Rollerball
+Salamander
+Shadowgate
+Shinjinrui
+Shinsenden
+Silva Saga
+Snow Bros
+Star Force
+Sweet Home
+Tecmo Bowl
+Tetra Star
+TigerHeli
+Woody Poko
+Zippy Race
+White Night
+The Witcher
+Arkanoid II
+Battle City
+Battletoads
+Binary Land
+Bomber King
+Chaos World
+Cosmic Wars
+Daisenryaku
+Devil World
+Donald Duck
+Donald Land
+Donkey Kong
+Dragon Unit
+Dragon Wars
+DuckTales 2
+Dungeon Kid
+Family Quiz
+Famista
+Flying Hero
+Formation
+Golgo
+Gorilla Man
+Hudson Hawk
+Hyakkiyakou
+Ice Climber
+Image Fight
+Jackie Chan
+Juvei Quest
+Lode Runner
+Magic Darts
+Mario Bros
+Max Warrior
+Meiji Ishin
+Metro Cross
+Murder Club
+Nuts  Milk
+Pachiokun
+Palamedes
+Peepar Time
+Plasma Ball
+PunchOut
+Robot Block
+Royal Blood
+Saint Seiya
+Seirei Gari
+Shanghai
+Star Luster
+Super Rugby
+TetsudouOh
+Tom Jerry
+Top Striker
+Toukon Club
+Venus Senki
+Volguard II
+Wagyan Land
+Wild Gunman
+Winners Cup
+Youkai Club
+World of Goo
+Air Fortress
+Babel no Tou
+Bats Terry
+Battle Fleet
+Battle Storm
+Bomberman II
+Boulder Dash
+Buggy Popper
+Castle Quest
+Clu Clu Land
+Crisis Force
+Don Doko Don
+Dragon Ninja
+Dragon Quest
+Dream Master
+Famicom Wars
+Family BASIC
+Family Block
+Fantasy Zone
+Field Combat
+Ghostbusters
+The Golf
+Hanjuku Hero
+Heavy Barrel
+Highway Star
+Hiryu no Ken
+Hyper Sports
+Knight Rider
+Kujaku Ou II
+Little Magic
+Lord of King
+Magic Candle
+Major League
+Mickey Mouse
+Moon Crystal
+Obocchamakun
+Onyanko Town
+Over Horizon
+Power Blazer
+Power Soccer
+Road Fighter
+Robocco Wars
+San Goku Shi
+Sansara Naga
+Shadow Brain
+Space Hunter
+Space Shadow
+Star Soldier
+Stick Hunter
+Super Contra
+Super Sprint
+Sword Master
+Terminator
+Terra Cresta
+Tetris Flash
+Thunderbirds
+Western Kids
+World Boxing
+Egg
+Gex
+LSD
+AFL
+Acid
+Doom
+Elan
+Hugo
+Jinx
+Croc
+Aqua
+Area
+FIFA
+Indy
+Euro
+FIFA
+ALIVE
+Azito
+Blade
+Bratz
+Buggy
+Chess
+Chill
+Fluid
+HeXen
+Egypt
+Bubsy
+Dakar
+Ainori
+Bedlam
+Blasto
+Boxing
+Casper
+Cheesy
+Diablo
+Enigma
+Glover
+Gubble
+Hugo 2
+Hybrid
+Keeper
+Legend
+Loaded
+Xtreme
+Frenzy
+Defcon
+Driver
+Cotton
+Gamera
+Felony
+Asterix
+Baroque
+Big Air
+Cyberia
+Descent
+Exector
+Falcata
+Frogger
+Grandia
+Gunship
+Jet Ace
+Kirikou
+Bastard
+Formula
+Initial
+Extreme
+Cricket
+Formula
+Amerzone
+Blockids
+BoomBots
+Breakout
+Cadillac
+Criticom
+Cyberwar
+Destrega
+Devilman
+Dioramos
+DonPachi
+Doki Oki
+Eberouge
+Epidemic
+Eve Zero
+Forsaken
+Fox Hunt
+The Hive
+Hot Shot
+Inuyasha
+Invasion
+Jet Moto
+Koudelka
+Jeopardy
+Eberouge
+Hardball
+Jet Moto
+Army Men
+Jeopardy
+AbalaBurn
+Aconcagua
+Aironauts
+Anastasia
+Asteroids
+ATV Mania
+Ballistic
+Bass Rise
+Beatmania
+Centipede
+Charumera
+Checkmate
+ClockWerx
+Creatures
+Dark Seed
+Darkstone
+Discworld
+Disruptor
+G1 Jockey
+Galerians
+Geom Cube
+Jet Racer
+Lagnacure
+BreakThru
+Buckle Up
+Checkmate
+Contender
+Dark Seed
+Discworld
+Apocalypse
+ATV Racers
+Black Dawn
+BladeMaker
+Bug Riders
+Card Games
+Crash Bash
+Cyber Sled
+Cyberspeed
+CyberTiger
+Devil Dice
+DoDonPachi
+Echo Night
+Eliminator
+Expendable
+FA Manager
+Final Doom
+Formula GP
+Goal Storm
+Grand Slam
+The Grinch
+Happy Diet
+HBO Boxing
+Juggernaut
+Kickboxing
+Krazy Ivan
+Land Maker
+Lucky Luke
+Ace Combat
+Actua Golf
+Bogey Dead
+Brave Saga
+Dalmatians
+Action Bass
+Afraid Gear
+Animal Snap
+Arc the Lad
+Ark of Time
+AubirdForce
+Battle Bugs
+BattleSport
+Blood Lines
+Bloody Roar
+Brave Prove
+Brave Sword
+Break Point
+Burning Ace
+Buttsubushi
+Carmageddon
+Chaos Break
+Chicken Run
+Click Medic
+Clock Tower
+Colony Wars
+Constructor
+Cosmic Race
+Crisis Beat
+Crisis City
+Danger Girl
+Deep Freeze
+DeviceReign
+Dino Crisis
+Dirt Jockey
+Dragonseeds
+Family Feud
+Fear Effect
+Final Round
+Ford Racing
+Gaia Master
+Ghoul Panic
+Grid Runner
+Guilty Gear
+Hard Boiled
+Hogs of War
+Home Doctor
+In the Hunt
+Infestation
+Judge Dredd
+Kamen Rider
+Karyuu Jyou
+Killer Loop
+Lego Racers
+LMA Manager
+Lode Runner
+Hardball 99
+Kings Field
+Actua Tennis
+Advan Racing
+Another Mind
+Armored Core
+Assault Rigs
+Azure Dreams
+Bass Landing
+Blast Radius
+Blue Breaker
+Broken Helix
+Burning Road
+Cardinal Syn
+Chrono Cross
+Civilization
+College Slam
+Cowboy Bebop
+Crime Killer
+Crypt Killer
+Digimon Park
+Dragon Money
+Dragon Valor
+Eternal Eyes
+Europe Racer
+Extra Bright
+Fushigi Deka
+Gallop Racer
+Go-Jin Senki
+Gran Turismo
+Harmful Park
+Jersey Devil
+Kaijuu Senki
+Kattobi Tune
+Killing Zone
+Kiss Pinball
+LiberoGrande
+London Racer
+Lone Soldier
+Lucifer Ring

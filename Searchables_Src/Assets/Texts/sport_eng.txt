@@ -1,0 +1,74 @@
+archery
+badminton
+basketball
+beach volleyball
+boxing
+canoe
+kayak
+climbing
+cycling
+diving
+equestrian
+fencing
+field hockey
+golf
+gymnastics
+handball
+judo
+karate
+modern pentathlon
+roller sport
+rowing
+rugby 7s
+sailing
+shooting
+soccer
+football
+swimming
+surfing
+synchronized
+table tennis
+taekwondo
+tennis
+track and field
+triathlon
+volleyball
+water polo
+weightlifting
+wrestling
+baseball
+softball
+squash
+wakeboard
+wushu
+dancing
+bowling
+netball
+cricket
+croquet
+motor boating
+polo
+tug-of-war
+cricket
+lacrosse
+jeu de paume
+racquets
+Boxing
+Pankration
+Running
+Wrestling
+ALPINE SKIING
+BIATHLON
+BOBSLEIGH
+CROSS COUNTRY SKIING
+CURLING
+FIGURE SKATING
+FREESTYLE SKIING
+ICE HOCKEY
+LUGE
+NORDIC COMBINED
+SHORT TRACK SPEED SKATING
+SKELETON
+SKI JUMPING
+SNOWBOARD
+SPEED SKATING

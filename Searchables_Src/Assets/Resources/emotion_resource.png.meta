@@ -1,0 +1,1909 @@
+fileFormatVersion: 2
+guid: f288df483d964fef822ef1cc3f3cc84d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: emotion_resource_4
+  - first:
+      213: 21300002
+    second: emotion_resource_5
+  - first:
+      213: 21300004
+    second: emotion_resource_10
+  - first:
+      213: 21300006
+    second: emotion_resource_11
+  - first:
+      213: 21300008
+    second: emotion_resource_12
+  - first:
+      213: 21300010
+    second: emotion_resource_17
+  - first:
+      213: 21300012
+    second: emotion_resource_19
+  - first:
+      213: 21300014
+    second: emotion_resource_23
+  - first:
+      213: 21300016
+    second: emotion_resource_24
+  - first:
+      213: 21300018
+    second: emotion_resource_25
+  - first:
+      213: 21300020
+    second: emotion_resource_26
+  - first:
+      213: 21300022
+    second: emotion_resource_27
+  - first:
+      213: 21300024
+    second: emotion_resource_29
+  - first:
+      213: 21300026
+    second: emotion_resource_30
+  - first:
+      213: 21300028
+    second: emotion_resource_0
+  - first:
+      213: 21300030
+    second: emotion_resource_1
+  - first:
+      213: 21300032
+    second: emotion_resource_2
+  - first:
+      213: 21300034
+    second: emotion_resource_3
+  - first:
+      213: 21300036
+    second: emotion_resource_6
+  - first:
+      213: 21300038
+    second: emotion_resource_7
+  - first:
+      213: 21300040
+    second: emotion_resource_8
+  - first:
+      213: 21300042
+    second: emotion_resource_9
+  - first:
+      213: 21300044
+    second: emotion_resource_13
+  - first:
+      213: 21300046
+    second: emotion_resource_14
+  - first:
+      213: 21300048
+    second: emotion_resource_15
+  - first:
+      213: 21300050
+    second: emotion_resource_16
+  - first:
+      213: 21300052
+    second: emotion_resource_18
+  - first:
+      213: 21300054
+    second: emotion_resource_20
+  - first:
+      213: 21300056
+    second: emotion_resource_21
+  - first:
+      213: 21300058
+    second: emotion_resource_22
+  - first:
+      213: 21300060
+    second: emotion_resource_28
+  - first:
+      213: 21300062
+    second: emotion_resource_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emotion_resource_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 270
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: 6, y: 7}
+        - {x: -6, y: -7}
+      - - {x: -6, y: -7}
+        - {x: 6, y: 7}
+        - {x: 6, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 238
+        width: 51.97325
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.98662, y: -23}
+        - {x: -25.98662, y: 14}
+        - {x: 5.013377, y: -23}
+      - - {x: -16.98662, y: 23}
+        - {x: 5.013377, y: -23}
+        - {x: -25.98662, y: 14}
+      - - {x: 21.01338, y: 23}
+        - {x: 5.013377, y: -23}
+        - {x: -16.98662, y: 23}
+      - - {x: 17.01338, y: -22}
+        - {x: 5.013377, y: -23}
+        - {x: 21.01338, y: 23}
+      - - {x: 26.01338, y: -15}
+        - {x: 17.01338, y: -22}
+        - {x: 21.01338, y: 23}
+      - - {x: 26.01338, y: 19}
+        - {x: 26.01338, y: -15}
+        - {x: 21.01338, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 134
+        width: 53
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 12}
+        - {x: 26.5, y: 12}
+        - {x: -26.5, y: -12}
+      - - {x: -26.5, y: -12}
+        - {x: 26.5, y: 12}
+        - {x: 26.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 76
+        width: 76
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 23}
+        - {x: -31, y: 30}
+        - {x: -31, y: 21}
+      - - {x: -25, y: 21}
+        - {x: -31, y: 21}
+        - {x: -31, y: 30}
+      - - {x: -20, y: 30}
+        - {x: -25, y: 21}
+        - {x: -31, y: 30}
+      - - {x: -21, y: 26}
+        - {x: -25, y: 21}
+        - {x: -20, y: 30}
+      - - {x: -19, y: -6}
+        - {x: -19, y: -4}
+        - {x: -16, y: -6}
+      - - {x: -19, y: -4}
+        - {x: -19, y: 18}
+        - {x: -16, y: -6}
+      - - {x: -17, y: 22}
+        - {x: -16, y: -6}
+        - {x: -19, y: 18}
+      - - {x: 6, y: 22}
+        - {x: -16, y: -6}
+        - {x: -17, y: 22}
+      - - {x: -1, y: -6}
+        - {x: -16, y: -6}
+        - {x: 6, y: 22}
+      - - {x: 4, y: -2}
+        - {x: -1, y: -6}
+        - {x: 6, y: 22}
+      - - {x: 6, y: 5}
+        - {x: 4, y: -2}
+        - {x: 6, y: 22}
+      - - {x: -38, y: -17}
+        - {x: -38, y: -12}
+        - {x: -30, y: -17}
+      - - {x: -34, y: -2}
+        - {x: -30, y: -17}
+        - {x: -38, y: -12}
+      - - {x: -21, y: -2}
+        - {x: -30, y: -17}
+        - {x: -34, y: -2}
+      - - {x: -28, y: -15}
+        - {x: -30, y: -17}
+        - {x: -21, y: -2}
+      - - {x: -25, y: -19}
+        - {x: -28, y: -15}
+        - {x: -21, y: -2}
+      - - {x: -22, y: -30}
+        - {x: -25, y: -19}
+        - {x: -21, y: -2}
+      - - {x: -16, y: -24}
+        - {x: -22, y: -30}
+        - {x: -21, y: -2}
+      - - {x: -19, y: -6}
+        - {x: -16, y: -24}
+        - {x: -21, y: -2}
+      - - {x: -16, y: -6}
+        - {x: -16, y: -24}
+        - {x: -19, y: -6}
+      - - {x: 8, y: 28}
+        - {x: 8, y: 30}
+        - {x: 14, y: 21}
+      - - {x: 18, y: 30}
+        - {x: 14, y: 21}
+        - {x: 8, y: 30}
+      - - {x: 19, y: 21}
+        - {x: 14, y: 21}
+        - {x: 18, y: 30}
+      - - {x: 20, y: 28}
+        - {x: 19, y: 21}
+        - {x: 18, y: 30}
+      - - {x: 20, y: 23}
+        - {x: 19, y: 21}
+        - {x: 20, y: 28}
+      - - {x: -19, y: -6}
+        - {x: -21, y: -2}
+        - {x: -19, y: -4}
+      - - {x: 15, y: -12}
+        - {x: 15, y: -10}
+        - {x: 17, y: -14}
+      - - {x: 17, y: -5}
+        - {x: 17, y: -14}
+        - {x: 15, y: -10}
+      - - {x: 31, y: -14}
+        - {x: 17, y: -14}
+        - {x: 17, y: -5}
+      - - {x: 31, y: -1}
+        - {x: 31, y: -14}
+        - {x: 17, y: -5}
+      - - {x: 38, y: -11}
+        - {x: 31, y: -14}
+        - {x: 31, y: -1}
+      - - {x: 18, y: 11}
+        - {x: 24, y: 16}
+        - {x: 21, y: -1}
+      - - {x: 26, y: 1}
+        - {x: 21, y: -1}
+        - {x: 24, y: 16}
+      - - {x: 38, y: 16}
+        - {x: 26, y: 1}
+        - {x: 24, y: 16}
+      - - {x: 28, y: 3}
+        - {x: 26, y: 1}
+        - {x: 38, y: 16}
+      - - {x: 31, y: -1}
+        - {x: 28, y: 3}
+        - {x: 38, y: 16}
+      - - {x: 38, y: -11}
+        - {x: 31, y: -1}
+        - {x: 38, y: 16}
+      - - {x: -38, y: -30}
+        - {x: -38, y: -24}
+        - {x: -22, y: -30}
+      - - {x: -25, y: -19}
+        - {x: -22, y: -30}
+        - {x: -38, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 263
+        width: 29
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 11}
+        - {x: 14.5, y: 11}
+        - {x: -14.5, y: -11}
+      - - {x: -14.5, y: -11}
+        - {x: 14.5, y: 11}
+        - {x: 14.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 232
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 11}
+        - {x: 13.5, y: 11}
+        - {x: -13.5, y: -11}
+      - - {x: -13.5, y: -11}
+        - {x: 13.5, y: 11}
+        - {x: 13.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 188
+        width: 62
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -13.5}
+        - {x: -25, y: -2.5}
+        - {x: -18, y: -13.5}
+      - - {x: -20, y: -4.5}
+        - {x: -18, y: -13.5}
+        - {x: -25, y: -2.5}
+      - - {x: -19, y: -0.5}
+        - {x: -18, y: -13.5}
+        - {x: -20, y: -4.5}
+      - - {x: -31, y: -12.5}
+        - {x: -31, y: 19.5}
+        - {x: -28, y: -13.5}
+      - - {x: -23, y: 5.5}
+        - {x: -28, y: -13.5}
+        - {x: -31, y: 19.5}
+      - - {x: -16, y: 19.5}
+        - {x: -23, y: 5.5}
+        - {x: -31, y: 19.5}
+      - - {x: -25, y: -2.5}
+        - {x: -28, y: -13.5}
+        - {x: -23, y: 5.5}
+      - - {x: -19, y: -0.5}
+        - {x: -23, y: 5.5}
+        - {x: -16, y: 19.5}
+      - - {x: -18, y: -13.5}
+        - {x: -19, y: -0.5}
+        - {x: -16, y: 19.5}
+      - - {x: -14, y: -12.5}
+        - {x: -18, y: -13.5}
+        - {x: -16, y: 19.5}
+      - - {x: -10, y: 8.5}
+        - {x: -14, y: -12.5}
+        - {x: -16, y: 19.5}
+      - - {x: -10, y: -5.5}
+        - {x: -14, y: -12.5}
+        - {x: -10, y: 8.5}
+      - - {x: 6, y: -17.5}
+        - {x: 18, y: 2.5}
+        - {x: 19, y: -16.5}
+      - - {x: 20, y: -4.5}
+        - {x: 19, y: -16.5}
+        - {x: 18, y: 2.5}
+      - - {x: 31, y: -15.5}
+        - {x: 19, y: -16.5}
+        - {x: 20, y: -4.5}
+      - - {x: 24, y: -1.5}
+        - {x: 31, y: -15.5}
+        - {x: 20, y: -4.5}
+      - - {x: 24, y: 4.5}
+        - {x: 31, y: -15.5}
+        - {x: 24, y: -1.5}
+      - - {x: 30, y: 19.5}
+        - {x: 31, y: -15.5}
+        - {x: 24, y: 4.5}
+      - - {x: 31, y: 17.5}
+        - {x: 31, y: -15.5}
+        - {x: 30, y: 19.5}
+      - - {x: -9, y: -15.5}
+        - {x: -9, y: 3.5}
+        - {x: -3, y: -19.5}
+      - - {x: 5, y: 19.5}
+        - {x: -3, y: -19.5}
+        - {x: -9, y: 3.5}
+      - - {x: 6, y: -19.5}
+        - {x: -3, y: -19.5}
+        - {x: 5, y: 19.5}
+      - - {x: 6, y: -17.5}
+        - {x: 6, y: -19.5}
+        - {x: 5, y: 19.5}
+      - - {x: 18, y: 2.5}
+        - {x: 6, y: -17.5}
+        - {x: 5, y: 19.5}
+      - - {x: 30, y: 19.5}
+        - {x: 18, y: 2.5}
+        - {x: 5, y: 19.5}
+      - - {x: 24, y: 4.5}
+        - {x: 18, y: 2.5}
+        - {x: 30, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 248
+        width: 93
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 18}
+        - {x: -12.5, y: 18}
+        - {x: -28.5, y: 14}
+      - - {x: -26.5, y: 10}
+        - {x: -28.5, y: 14}
+        - {x: -12.5, y: 18}
+      - - {x: -17.5, y: 10}
+        - {x: -26.5, y: 10}
+        - {x: -12.5, y: 18}
+      - - {x: -12.5, y: 12}
+        - {x: -17.5, y: 10}
+        - {x: -12.5, y: 18}
+      - - {x: -12.5, y: -3}
+        - {x: -12.5, y: 10}
+        - {x: -5.5, y: -8}
+      - - {x: 13.5, y: 10}
+        - {x: -5.5, y: -8}
+        - {x: -12.5, y: 10}
+      - - {x: 8.5, y: -8}
+        - {x: -5.5, y: -8}
+        - {x: 13.5, y: 10}
+      - - {x: 13.5, y: -1}
+        - {x: 8.5, y: -8}
+        - {x: 13.5, y: 10}
+      - - {x: 22.5, y: -16}
+        - {x: 22.5, y: 2}
+        - {x: 25.5, y: -18}
+      - - {x: 28.5, y: 5}
+        - {x: 25.5, y: -18}
+        - {x: 22.5, y: 2}
+      - - {x: 46.5, y: -18}
+        - {x: 25.5, y: -18}
+        - {x: 28.5, y: 5}
+      - - {x: 38.5, y: 5}
+        - {x: 46.5, y: -18}
+        - {x: 28.5, y: 5}
+      - - {x: 45.5, y: 3}
+        - {x: 46.5, y: -18}
+        - {x: 38.5, y: 5}
+      - - {x: 46.5, y: 1}
+        - {x: 46.5, y: -18}
+        - {x: 45.5, y: 3}
+      - - {x: -46.5, y: -16}
+        - {x: -46.5, y: 1}
+        - {x: -44.5, y: -18}
+      - - {x: -44.5, y: 5}
+        - {x: -44.5, y: -18}
+        - {x: -46.5, y: 1}
+      - - {x: -22.5, y: -18}
+        - {x: -44.5, y: -18}
+        - {x: -44.5, y: 5}
+      - - {x: -26.5, y: 5}
+        - {x: -22.5, y: -18}
+        - {x: -44.5, y: 5}
+      - - {x: -22.5, y: 2}
+        - {x: -22.5, y: -18}
+        - {x: -26.5, y: 5}
+      - - {x: 12.5, y: 15}
+        - {x: 12.5, y: 18}
+        - {x: 14.5, y: 10}
+      - - {x: 28.5, y: 18}
+        - {x: 14.5, y: 10}
+        - {x: 12.5, y: 18}
+      - - {x: 24.5, y: 10}
+        - {x: 14.5, y: 10}
+        - {x: 28.5, y: 18}
+      - - {x: 28.5, y: 11}
+        - {x: 24.5, y: 10}
+        - {x: 28.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 170
+        width: 46
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -11}
+        - {x: -23, y: 29}
+        - {x: -8, y: -29}
+      - - {x: 23, y: 29}
+        - {x: -8, y: -29}
+        - {x: -23, y: 29}
+      - - {x: 8, y: -29}
+        - {x: -8, y: -29}
+        - {x: 23, y: 29}
+      - - {x: 23, y: -10}
+        - {x: 8, y: -29}
+        - {x: 23, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 231
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 12}
+        - {x: 13.5, y: 12}
+        - {x: -13.5, y: -12}
+      - - {x: -13.5, y: -12}
+        - {x: 13.5, y: 12}
+        - {x: 13.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 66
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 19.5}
+        - {x: -26, y: 26.5}
+        - {x: -26, y: 17.5}
+      - - {x: -20, y: 17.5}
+        - {x: -26, y: 17.5}
+        - {x: -26, y: 26.5}
+      - - {x: -15, y: 26.5}
+        - {x: -20, y: 17.5}
+        - {x: -26, y: 26.5}
+      - - {x: -16, y: 22.5}
+        - {x: -20, y: 17.5}
+        - {x: -15, y: 26.5}
+      - - {x: 13, y: 24.5}
+        - {x: 13, y: 26.5}
+        - {x: 19, y: 17.5}
+      - - {x: 23, y: 26.5}
+        - {x: 19, y: 17.5}
+        - {x: 13, y: 26.5}
+      - - {x: 24, y: 17.5}
+        - {x: 19, y: 17.5}
+        - {x: 23, y: 26.5}
+      - - {x: 25, y: 24.5}
+        - {x: 24, y: 17.5}
+        - {x: 23, y: 26.5}
+      - - {x: 25, y: 19.5}
+        - {x: 24, y: 17.5}
+        - {x: 25, y: 24.5}
+      - - {x: -6, y: -3.5}
+        - {x: -6, y: 4.5}
+        - {x: -5, y: -13.5}
+      - - {x: -33, y: -16.5}
+        - {x: -33, y: -8.5}
+        - {x: -19, y: -16.5}
+      - - {x: -32, y: 6.5}
+        - {x: -19, y: -16.5}
+        - {x: -33, y: -8.5}
+      - - {x: -28, y: 15.5}
+        - {x: -19, y: -16.5}
+        - {x: -32, y: 6.5}
+      - - {x: -10, y: 18.5}
+        - {x: -19, y: -16.5}
+        - {x: -28, y: 15.5}
+      - - {x: -10, y: -5.5}
+        - {x: -19, y: -16.5}
+        - {x: -10, y: 18.5}
+      - - {x: -6, y: 4.5}
+        - {x: -10, y: -5.5}
+        - {x: -10, y: 18.5}
+      - - {x: 11, y: 18.5}
+        - {x: -6, y: 4.5}
+        - {x: -10, y: 18.5}
+      - - {x: -5, y: -13.5}
+        - {x: -6, y: 4.5}
+        - {x: 11, y: 18.5}
+      - - {x: 8, y: -6.5}
+        - {x: -5, y: -13.5}
+        - {x: 11, y: 18.5}
+      - - {x: 11, y: 0.5}
+        - {x: 8, y: -6.5}
+        - {x: 11, y: 18.5}
+      - - {x: 10, y: -26.5}
+        - {x: 10, y: -8.5}
+        - {x: 32, y: -26.5}
+      - - {x: 17, y: 2.5}
+        - {x: 32, y: -26.5}
+        - {x: 10, y: -8.5}
+      - - {x: 28, y: 2.5}
+        - {x: 32, y: -26.5}
+        - {x: 17, y: 2.5}
+      - - {x: 33, y: 1.5}
+        - {x: 32, y: -26.5}
+        - {x: 28, y: 2.5}
+      - - {x: 33, y: -24.5}
+        - {x: 32, y: -26.5}
+        - {x: 33, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 53
+        width: 4
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31.5}
+        - {x: 2, y: 31.5}
+        - {x: -2, y: -31.5}
+      - - {x: -2, y: -31.5}
+        - {x: 2, y: 31.5}
+        - {x: 2, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 20
+        width: 66
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20.5}
+        - {x: 15, y: 26.5}
+        - {x: 20, y: 17.5}
+      - - {x: 26, y: 26.5}
+        - {x: 20, y: 17.5}
+        - {x: 15, y: 26.5}
+      - - {x: 28, y: 17.5}
+        - {x: 20, y: 17.5}
+        - {x: 26, y: 26.5}
+      - - {x: 28, y: 21.5}
+        - {x: 28, y: 17.5}
+        - {x: 26, y: 26.5}
+      - - {x: -25, y: 19.5}
+        - {x: -25, y: 24.5}
+        - {x: -24, y: 17.5}
+      - - {x: -23, y: 26.5}
+        - {x: -24, y: 17.5}
+        - {x: -25, y: 24.5}
+      - - {x: -18, y: 17.5}
+        - {x: -24, y: 17.5}
+        - {x: -23, y: 26.5}
+      - - {x: -13, y: 26.5}
+        - {x: -18, y: 17.5}
+        - {x: -23, y: 26.5}
+      - - {x: -13, y: 23.5}
+        - {x: -18, y: 17.5}
+        - {x: -13, y: 26.5}
+      - - {x: -11, y: 1.5}
+        - {x: -11, y: 18.5}
+        - {x: 0, y: -16.5}
+      - - {x: 17, y: 18.5}
+        - {x: 0, y: -16.5}
+        - {x: -11, y: 18.5}
+      - - {x: 33, y: -16.5}
+        - {x: 0, y: -16.5}
+        - {x: 17, y: 18.5}
+      - - {x: 27, y: 13.5}
+        - {x: 33, y: -16.5}
+        - {x: 17, y: 18.5}
+      - - {x: 33, y: 7.5}
+        - {x: 33, y: -16.5}
+        - {x: 27, y: 13.5}
+      - - {x: -33, y: -21.5}
+        - {x: -33, y: 1.5}
+        - {x: -26, y: -26.5}
+      - - {x: -16, y: 1.5}
+        - {x: -26, y: -26.5}
+        - {x: -33, y: 1.5}
+      - - {x: -13, y: -19.5}
+        - {x: -26, y: -26.5}
+        - {x: -16, y: 1.5}
+      - - {x: -10, y: -26.5}
+        - {x: -26, y: -26.5}
+        - {x: -13, y: -19.5}
+      - - {x: -14, y: 0.5}
+        - {x: -13, y: -19.5}
+        - {x: -16, y: 1.5}
+      - - {x: -10, y: -21.5}
+        - {x: -10, y: -26.5}
+        - {x: -13, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 252
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 7}
+        - {x: -27, y: 16}
+        - {x: -23, y: 7}
+      - - {x: -17, y: 16}
+        - {x: -23, y: 7}
+        - {x: -27, y: 16}
+      - - {x: -18, y: 12}
+        - {x: -23, y: 7}
+        - {x: -17, y: 16}
+      - - {x: -7, y: -15}
+        - {x: -7, y: 7}
+        - {x: -6, y: -16}
+      - - {x: -3, y: 10}
+        - {x: -6, y: -16}
+        - {x: -7, y: 7}
+      - - {x: 16, y: -16}
+        - {x: -6, y: -16}
+        - {x: -3, y: 10}
+      - - {x: 17, y: 10}
+        - {x: 16, y: -16}
+        - {x: -3, y: 10}
+      - - {x: 17, y: 9}
+        - {x: 16, y: -16}
+        - {x: 17, y: 10}
+      - - {x: 16, y: -16}
+        - {x: 17, y: 9}
+        - {x: 18, y: -15}
+      - - {x: 18, y: 7}
+        - {x: 18, y: -15}
+        - {x: 17, y: 9}
+      - - {x: 18, y: 7}
+        - {x: 18, y: 10}
+        - {x: 24, y: 7}
+      - - {x: 19, y: 16}
+        - {x: 24, y: 7}
+        - {x: 18, y: 10}
+      - - {x: 27, y: 16}
+        - {x: 24, y: 7}
+        - {x: 19, y: 16}
+      - - {x: 27, y: 11}
+        - {x: 24, y: 7}
+        - {x: 27, y: 16}
+      - - {x: 17, y: 10}
+        - {x: 17, y: 14}
+        - {x: 18, y: 10}
+      - - {x: 19, y: 16}
+        - {x: 18, y: 10}
+        - {x: 17, y: 14}
+      - - {x: 17, y: 9}
+        - {x: 17, y: 10}
+        - {x: 18, y: 7}
+      - - {x: 18, y: 10}
+        - {x: 18, y: 7}
+        - {x: 17, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 62
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -7.5}
+        - {x: 10, y: 12.5}
+        - {x: 12, y: -13.5}
+      - - {x: 16, y: 19.5}
+        - {x: 12, y: -13.5}
+        - {x: 10, y: 12.5}
+      - - {x: 18, y: -1.5}
+        - {x: 12, y: -13.5}
+        - {x: 16, y: 19.5}
+      - - {x: 27, y: -13.5}
+        - {x: 12, y: -13.5}
+        - {x: 18, y: -1.5}
+      - - {x: 23, y: -4.5}
+        - {x: 27, y: -13.5}
+        - {x: 18, y: -1.5}
+      - - {x: 24, y: 4.5}
+        - {x: 27, y: -13.5}
+        - {x: 23, y: -4.5}
+      - - {x: 27, y: 19.5}
+        - {x: 20, y: 5.5}
+        - {x: 16, y: 19.5}
+      - - {x: 18, y: -1.5}
+        - {x: 16, y: 19.5}
+        - {x: 20, y: 5.5}
+      - - {x: 24, y: 4.5}
+        - {x: 20, y: 5.5}
+        - {x: 27, y: 19.5}
+      - - {x: 27, y: -13.5}
+        - {x: 24, y: 4.5}
+        - {x: 27, y: 19.5}
+      - - {x: 31, y: -9.5}
+        - {x: 27, y: -13.5}
+        - {x: 27, y: 19.5}
+      - - {x: 31, y: 10.5}
+        - {x: 31, y: -9.5}
+        - {x: 27, y: 19.5}
+      - - {x: -31, y: 11.5}
+        - {x: -25, y: -1.5}
+        - {x: -31, y: -13.5}
+      - - {x: -11, y: -19.5}
+        - {x: -31, y: -13.5}
+        - {x: -25, y: -1.5}
+      - - {x: -28, y: 19.5}
+        - {x: -25, y: -1.5}
+        - {x: -31, y: 11.5}
+      - - {x: -20, y: -4.5}
+        - {x: -11, y: -19.5}
+        - {x: -25, y: -1.5}
+      - - {x: -19, y: 4.5}
+        - {x: -11, y: -19.5}
+        - {x: -20, y: -4.5}
+      - - {x: 0, y: 19.5}
+        - {x: -23, y: 5.5}
+        - {x: -28, y: 19.5}
+      - - {x: -25, y: -1.5}
+        - {x: -28, y: 19.5}
+        - {x: -23, y: 5.5}
+      - - {x: -19, y: 4.5}
+        - {x: -23, y: 5.5}
+        - {x: 0, y: 19.5}
+      - - {x: -11, y: -19.5}
+        - {x: -19, y: 4.5}
+        - {x: 0, y: 19.5}
+      - - {x: 8, y: -19.5}
+        - {x: -11, y: -19.5}
+        - {x: 0, y: 19.5}
+      - - {x: 8, y: 6.5}
+        - {x: 8, y: -19.5}
+        - {x: 0, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 91
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 12}
+        - {x: 45.5, y: 12}
+        - {x: -45.5, y: -12}
+      - - {x: -45.5, y: -12}
+        - {x: 45.5, y: 12}
+        - {x: 45.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 57
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 8}
+        - {x: 28.5, y: 8}
+        - {x: -28.5, y: -8}
+      - - {x: -28.5, y: -8}
+        - {x: 28.5, y: 8}
+        - {x: 28.5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 77
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 8.5}
+        - {x: -28, y: 17.5}
+        - {x: -23, y: 8.5}
+      - - {x: -25, y: 19.5}
+        - {x: -23, y: 8.5}
+        - {x: -28, y: 17.5}
+      - - {x: -19, y: 19.5}
+        - {x: -23, y: 8.5}
+        - {x: -25, y: 19.5}
+      - - {x: -18, y: 13.5}
+        - {x: -23, y: 8.5}
+        - {x: -19, y: 19.5}
+      - - {x: -18, y: 17.5}
+        - {x: -18, y: 13.5}
+        - {x: -19, y: 19.5}
+      - - {x: 22, y: 7.5}
+        - {x: 22, y: 19.5}
+        - {x: 25, y: 6.5}
+      - - {x: 28, y: 19.5}
+        - {x: 25, y: 6.5}
+        - {x: 22, y: 19.5}
+      - - {x: 28, y: 6.5}
+        - {x: 25, y: 6.5}
+        - {x: 28, y: 19.5}
+      - - {x: -23, y: -19.5}
+        - {x: -23, y: -2.5}
+        - {x: 12, y: -19.5}
+      - - {x: -1, y: -7.5}
+        - {x: 12, y: -19.5}
+        - {x: -23, y: -2.5}
+      - - {x: -7, y: -1.5}
+        - {x: -1, y: -7.5}
+        - {x: -23, y: -2.5}
+      - - {x: -13, y: 19.5}
+        - {x: -7, y: -1.5}
+        - {x: -23, y: -2.5}
+      - - {x: -1, y: 11.5}
+        - {x: 12, y: -19.5}
+        - {x: -1, y: -7.5}
+      - - {x: 4, y: 19.5}
+        - {x: 12, y: -19.5}
+        - {x: -1, y: 11.5}
+      - - {x: 11, y: 17.5}
+        - {x: 12, y: -19.5}
+        - {x: 4, y: 19.5}
+      - - {x: 12, y: 3.5}
+        - {x: 12, y: -19.5}
+        - {x: 11, y: 17.5}
+      - - {x: 4, y: 19.5}
+        - {x: -5, y: 11.5}
+        - {x: -13, y: 19.5}
+      - - {x: -7, y: -1.5}
+        - {x: -13, y: 19.5}
+        - {x: -5, y: 11.5}
+      - - {x: -1, y: 11.5}
+        - {x: -5, y: 11.5}
+        - {x: 4, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 240
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -23}
+        - {x: -22.5, y: 18}
+        - {x: 22.5, y: -23}
+      - - {x: -16.5, y: 23}
+        - {x: 22.5, y: -23}
+        - {x: -22.5, y: 18}
+      - - {x: 15.5, y: 23}
+        - {x: 22.5, y: -23}
+        - {x: -16.5, y: 23}
+      - - {x: 22.5, y: 16}
+        - {x: 22.5, y: -23}
+        - {x: 15.5, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 67
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -8.5}
+        - {x: 15.5, y: 5.5}
+        - {x: 26.5, y: -8.5}
+      - - {x: 20.5, y: 1.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 15.5, y: 5.5}
+      - - {x: 26.5, y: 5.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 20.5, y: 1.5}
+      - - {x: 33.5, y: -5.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 26.5, y: 5.5}
+      - - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 17.5}
+        - {x: 12.5, y: -8.5}
+      - - {x: 7.5, y: 19.5}
+        - {x: 12.5, y: -8.5}
+        - {x: 6.5, y: 17.5}
+      - - {x: 15.5, y: 5.5}
+        - {x: 12.5, y: -8.5}
+        - {x: 7.5, y: 19.5}
+      - - {x: 22.5, y: 12.5}
+        - {x: 15.5, y: 5.5}
+        - {x: 7.5, y: 19.5}
+      - - {x: 33.5, y: 19.5}
+        - {x: 22.5, y: 12.5}
+        - {x: 7.5, y: 19.5}
+      - - {x: 26.5, y: 5.5}
+        - {x: 22.5, y: 12.5}
+        - {x: 33.5, y: 19.5}
+      - - {x: 33.5, y: -5.5}
+        - {x: 26.5, y: 5.5}
+        - {x: 33.5, y: 19.5}
+      - - {x: -26.5, y: 5.5}
+        - {x: -21.5, y: 1.5}
+        - {x: -29.5, y: -8.5}
+      - - {x: -8.5, y: -8.5}
+        - {x: -29.5, y: -8.5}
+        - {x: -21.5, y: 1.5}
+      - - {x: -15.5, y: 5.5}
+        - {x: -8.5, y: -8.5}
+        - {x: -21.5, y: 1.5}
+      - - {x: -9.5, y: 19.5}
+        - {x: -8.5, y: -8.5}
+        - {x: -15.5, y: 5.5}
+      - - {x: -6.5, y: 17.5}
+        - {x: -8.5, y: -8.5}
+        - {x: -9.5, y: 19.5}
+      - - {x: -6.5, y: -1.5}
+        - {x: -8.5, y: -8.5}
+        - {x: -6.5, y: 17.5}
+      - - {x: -33.5, y: -4.5}
+        - {x: -33.5, y: 18.5}
+        - {x: -29.5, y: -8.5}
+      - - {x: -32.5, y: 19.5}
+        - {x: -29.5, y: -8.5}
+        - {x: -33.5, y: 18.5}
+      - - {x: -26.5, y: 5.5}
+        - {x: -29.5, y: -8.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -19.5, y: 12.5}
+        - {x: -26.5, y: 5.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -9.5, y: 19.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -15.5, y: 5.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -9.5, y: 19.5}
+      - - {x: -16.5, y: -18.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -15.5, y: -19.5}
+      - - {x: -14.5, y: -11.5}
+        - {x: -15.5, y: -19.5}
+        - {x: -16.5, y: -13.5}
+      - - {x: 18.5, y: -19.5}
+        - {x: -15.5, y: -19.5}
+        - {x: -14.5, y: -11.5}
+      - - {x: 18.5, y: -11.5}
+        - {x: 18.5, y: -19.5}
+        - {x: -14.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 134
+        width: 55
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 15}
+        - {x: 27.5, y: 15}
+        - {x: -27.5, y: -15}
+      - - {x: -27.5, y: -15}
+        - {x: 27.5, y: 15}
+        - {x: 27.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 251
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -16}
+        - {x: -17.5, y: 13}
+        - {x: -16.5, y: -17}
+      - - {x: -14.5, y: 17}
+        - {x: -16.5, y: -17}
+        - {x: -17.5, y: 13}
+      - - {x: 14.5, y: -17}
+        - {x: -16.5, y: -17}
+        - {x: -14.5, y: 17}
+      - - {x: 13.5, y: 17}
+        - {x: 14.5, y: -17}
+        - {x: -14.5, y: 17}
+      - - {x: 17.5, y: 16}
+        - {x: 14.5, y: -17}
+        - {x: 13.5, y: 17}
+      - - {x: 17.5, y: -16}
+        - {x: 14.5, y: -17}
+        - {x: 17.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 55
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 15}
+        - {x: 27.5, y: 15}
+        - {x: -27.5, y: -15}
+      - - {x: -27.5, y: -15}
+        - {x: 27.5, y: 15}
+        - {x: 27.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 73
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 15}
+        - {x: 36.5, y: 15}
+        - {x: -36.5, y: -15}
+      - - {x: -36.5, y: -15}
+        - {x: 36.5, y: 15}
+        - {x: 36.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 76
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22.5}
+        - {x: -20, y: 27.5}
+        - {x: -19, y: 20.5}
+      - - {x: -18, y: 29.5}
+        - {x: -19, y: 20.5}
+        - {x: -20, y: 27.5}
+      - - {x: -13, y: 20.5}
+        - {x: -19, y: 20.5}
+        - {x: -18, y: 29.5}
+      - - {x: -8, y: 29.5}
+        - {x: -13, y: 20.5}
+        - {x: -18, y: 29.5}
+      - - {x: -8, y: 26.5}
+        - {x: -13, y: 20.5}
+        - {x: -8, y: 29.5}
+      - - {x: -6, y: 3.5}
+        - {x: -6, y: 21.5}
+        - {x: 1, y: -6.5}
+      - - {x: 18, y: 21.5}
+        - {x: 1, y: -6.5}
+        - {x: -6, y: 21.5}
+      - - {x: 11, y: -6.5}
+        - {x: 1, y: -6.5}
+        - {x: 18, y: 21.5}
+      - - {x: 19, y: 2.5}
+        - {x: 11, y: -6.5}
+        - {x: 18, y: 21.5}
+      - - {x: 19, y: 18.5}
+        - {x: 19, y: 2.5}
+        - {x: 18, y: 21.5}
+      - - {x: 20, y: 23.5}
+        - {x: 20, y: 29.5}
+        - {x: 25, y: 20.5}
+      - - {x: 31, y: 29.5}
+        - {x: 25, y: 20.5}
+        - {x: 20, y: 29.5}
+      - - {x: 33, y: 20.5}
+        - {x: 25, y: 20.5}
+        - {x: 31, y: 29.5}
+      - - {x: 33, y: 24.5}
+        - {x: 33, y: 20.5}
+        - {x: 31, y: 29.5}
+      - - {x: -19, y: -14.5}
+        - {x: -18, y: -5.5}
+        - {x: -15, y: -13.5}
+      - - {x: -15, y: -9.5}
+        - {x: -15, y: -13.5}
+        - {x: -18, y: -5.5}
+      - - {x: -38, y: -10.5}
+        - {x: -38, y: 14.5}
+        - {x: -37, y: -14.5}
+      - - {x: -34, y: 15.5}
+        - {x: -37, y: -14.5}
+        - {x: -38, y: 14.5}
+      - - {x: -19, y: -14.5}
+        - {x: -37, y: -14.5}
+        - {x: -34, y: 15.5}
+      - - {x: -23, y: 15.5}
+        - {x: -19, y: -14.5}
+        - {x: -34, y: 15.5}
+      - - {x: -18, y: 10.5}
+        - {x: -19, y: -14.5}
+        - {x: -23, y: 15.5}
+      - - {x: -18, y: -5.5}
+        - {x: -19, y: -14.5}
+        - {x: -18, y: 10.5}
+      - - {x: 16, y: -23.5}
+        - {x: 16, y: -6.5}
+        - {x: 23, y: -29.5}
+      - - {x: 21, y: -1.5}
+        - {x: 23, y: -29.5}
+        - {x: 16, y: -6.5}
+      - - {x: 32, y: -1.5}
+        - {x: 23, y: -29.5}
+        - {x: 21, y: -1.5}
+      - - {x: 38, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 32, y: -1.5}
+      - - {x: 37, y: -7.5}
+        - {x: 38, y: -29.5}
+        - {x: 32, y: -1.5}
+      - - {x: 38, y: -16.5}
+        - {x: 38, y: -29.5}
+        - {x: 37, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 53
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 12}
+        - {x: 26.5, y: 12}
+        - {x: -26.5, y: -12}
+      - - {x: -26.5, y: -12}
+        - {x: 26.5, y: 12}
+        - {x: 26.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 54
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 13}
+        - {x: 27, y: 13}
+        - {x: -27, y: -13}
+      - - {x: -27, y: -13}
+        - {x: 27, y: 13}
+        - {x: 27, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 76
+        width: 65
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 4.5}
+        - {x: -20.5, y: 0.5}
+        - {x: -31.5, y: -9.5}
+      - - {x: -6.5, y: -9.5}
+        - {x: -31.5, y: -9.5}
+        - {x: -20.5, y: 0.5}
+      - - {x: -14.5, y: 4.5}
+        - {x: -6.5, y: -9.5}
+        - {x: -20.5, y: 0.5}
+      - - {x: -32.5, y: -7.5}
+        - {x: -32.5, y: 19.5}
+        - {x: -31.5, y: -9.5}
+      - - {x: -25.5, y: 4.5}
+        - {x: -31.5, y: -9.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -18.5, y: 11.5}
+        - {x: -25.5, y: 4.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -6.5, y: 19.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -32.5, y: 19.5}
+      - - {x: -14.5, y: 4.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -6.5, y: 19.5}
+      - - {x: -6.5, y: -9.5}
+        - {x: -14.5, y: 4.5}
+        - {x: -6.5, y: 19.5}
+      - - {x: -5.5, y: -2.5}
+        - {x: -6.5, y: -9.5}
+        - {x: -6.5, y: 19.5}
+      - - {x: -5.5, y: 17.5}
+        - {x: -5.5, y: -2.5}
+        - {x: -6.5, y: 19.5}
+      - - {x: 10.5, y: -0.5}
+        - {x: 10.5, y: 5.5}
+        - {x: 25.5, y: -11.5}
+      - - {x: 21.5, y: 19.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 10.5, y: 5.5}
+      - - {x: 32.5, y: 19.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 21.5, y: 19.5}
+      - - {x: 32.5, y: -11.5}
+        - {x: 25.5, y: -11.5}
+        - {x: 32.5, y: 19.5}
+      - - {x: -15.5, y: -19.5}
+        - {x: -15.5, y: -14.5}
+        - {x: 19.5, y: -19.5}
+      - - {x: -13.5, y: -12.5}
+        - {x: 19.5, y: -19.5}
+        - {x: -15.5, y: -14.5}
+      - - {x: 17.5, y: -12.5}
+        - {x: 19.5, y: -19.5}
+        - {x: -13.5, y: -12.5}
+      - - {x: 19.5, y: -14.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 17.5, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 150
+        width: 58
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 14.5}
+        - {x: 29, y: 14.5}
+        - {x: -29, y: -14.5}
+      - - {x: -29, y: -14.5}
+        - {x: 29, y: 14.5}
+        - {x: 29, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 252
+        width: 53
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 11}
+        - {x: -26.5, y: 16}
+        - {x: -22.5, y: 7}
+      - - {x: -19.5, y: 16}
+        - {x: -22.5, y: 7}
+        - {x: -26.5, y: 16}
+      - - {x: -18.5, y: 7}
+        - {x: -22.5, y: 7}
+        - {x: -19.5, y: 16}
+      - - {x: -16.5, y: 9}
+        - {x: -18.5, y: 7}
+        - {x: -19.5, y: 16}
+      - - {x: 16.5, y: 14}
+        - {x: 16.5, y: 16}
+        - {x: 22.5, y: 7}
+      - - {x: 25.5, y: 16}
+        - {x: 22.5, y: 7}
+        - {x: 16.5, y: 16}
+      - - {x: 26.5, y: 7}
+        - {x: 22.5, y: 7}
+        - {x: 25.5, y: 16}
+      - - {x: 26.5, y: 15}
+        - {x: 26.5, y: 7}
+        - {x: 25.5, y: 16}
+      - - {x: -16.5, y: -16}
+        - {x: -16.5, y: 8}
+        - {x: 1.5, y: -16}
+      - - {x: -12.5, y: 10}
+        - {x: 1.5, y: -16}
+        - {x: -16.5, y: 8}
+      - - {x: 7.5, y: 10}
+        - {x: 1.5, y: -16}
+        - {x: -12.5, y: 10}
+      - - {x: 4.5, y: -13}
+        - {x: 1.5, y: -16}
+        - {x: 7.5, y: 10}
+      - - {x: 8.5, y: -8}
+        - {x: 4.5, y: -13}
+        - {x: 7.5, y: 10}
+      - - {x: 8.5, y: 7}
+        - {x: 8.5, y: -8}
+        - {x: 7.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 73
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 15}
+        - {x: 36.5, y: 15}
+        - {x: -36.5, y: -15}
+      - - {x: -36.5, y: -15}
+        - {x: 36.5, y: 15}
+        - {x: 36.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emotion_resource_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 54
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 13}
+        - {x: 27, y: 13}
+        - {x: -27, y: -13}
+      - - {x: -27, y: -13}
+        - {x: 27, y: 13}
+        - {x: 27, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      emotion_resource_21: 21300056
+      emotion_resource_23: 21300014
+      emotion_resource_26: 21300020
+      emotion_resource_4: 21300000
+      emotion_resource_31: 21300062
+      emotion_resource_19: 21300012
+      emotion_resource_25: 21300018
+      emotion_resource_12: 21300008
+      emotion_resource_10: 21300004
+      emotion_resource_11: 21300006
+      emotion_resource_7: 21300038
+      emotion_resource_5: 21300002
+      emotion_resource_2: 21300032
+      emotion_resource_18: 21300052
+      emotion_resource_3: 21300034
+      emotion_resource_28: 21300060
+      emotion_resource_22: 21300058
+      emotion_resource_8: 21300040
+      emotion_resource_1: 21300030
+      emotion_resource_17: 21300010
+      emotion_resource_13: 21300044
+      emotion_resource_30: 21300026
+      emotion_resource_14: 21300046
+      emotion_resource_20: 21300054
+      emotion_resource_24: 21300016
+      emotion_resource_6: 21300036
+      emotion_resource_27: 21300022
+      emotion_resource_16: 21300050
+      emotion_resource_9: 21300042
+      emotion_resource_29: 21300024
+      emotion_resource_0: 21300028
+      emotion_resource_15: 21300048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

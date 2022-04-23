@@ -1,0 +1,478 @@
+Gaz
+Vla
+Bun
+Pie
+Mint
+Rock
+Teja
+Vada
+Flan
+Rusk
+Cake
+Milk
+Tart
+Sevai
+Migan
+Misua
+Paomo
+Ramen
+Fideo
+Candy
+Dodol
+Fudge
+Gajak
+Glaze
+Halva
+Laddu
+Misri
+Noghl
+Sohan
+Spunk
+Zefir
+Colaz
+Sohan
+Tuile
+Lokma
+Mahua
+Sfenj
+Booza
+Kulfi
+Pirog
+Vlaai
+Blini
+Halva
+Zefir
+Burek
+Knish
+Pasty
+Pirog
+Sfiha
+Vlaai
+Bread
+Bagel
+Roast
+Cumian
+Lamian
+Mixian
+Bonbon
+Cajeta
+Chikki
+Comfit
+Geplak
+Imarti
+Konfyt
+Manjar
+Nougat
+Oblaat
+Pepero
+Sukhdi
+Tiffin
+Jumble
+Kichel
+Flanby
+Kissel
+Krofne
+Trifle
+Churro
+Imarti
+Jalebi
+Kleina
+Kreple
+Krofne
+Sgabeo
+Toutin
+Gelato
+Mix-in
+Monaka
+Sundae
+Kuchen
+Oladyi
+Sushki
+Bridie
+Kuchen
+Kurnik
+Quiche
+Zelnik
+Bappir
+Muffin
+cheese
+Cookie
+Pastry
+Lai fun
+Liangpi
+Yi mein
+Youmian
+Abnabat
+Brittle
+Caramel
+Cezerye
+Cocadas
+Cordial
+Fondant
+Pashmak
+Pastila
+Penuche
+Poolaki
+Sandesh
+Singori
+Succade
+Coyotas
+Finikia
+Guyuria
+Kleicha
+Macaron
+Pignolo
+Rosette
+Silvana
+Pudding
+Quindim
+Soufflé
+Zeppole
+Bamiyeh
+Beignet
+Cruller
+Dutchie
+Fritter
+Fritule
+Oliebol
+Rosette
+Timbits
+Tulumba
+Youtiao
+Zeppole
+Parfait
+Cobbler
+Smulpaj
+Gizzada
+Pastila
+Syrniki
+Varenye
+Hornazo
+Pot pie
+Sea pie
+Biscuit
+Crouton
+Biscuit
+Brownie
+Lasagne
+Cracker
+Custard
+Pudding
+Couscous
+Macaroni
+Calisson
+Cuberdon
+Divinity
+Gozinaki
+Kamarcut
+Konpeitō
+Kosereva
+Marzipan
+Mendiant
+Modjeska
+Mooncake
+Pastille
+Persipan
+Rum ball
+Tarasari
+Krumkake
+Macaroon
+Pizzelle
+Qurabiya
+Roskette
+Teiglach
+Bean pie
+Berliner
+Bougatsa
+Egg tart
+Krempita
+Melktert
+Natillas
+Tiramisu
+Zabaione
+Awwamaat
+Baursaki
+Berliner
+Boortsog
+Fasnacht
+Fritelli
+Frittole
+Malasada
+Nonnevot
+Affogato
+Choc ice
+Choc Top
+Dondurma
+Ice milk
+Sorbetes
+Bean pie
+Buko pie
+Crostata
+Egg tart
+Melktert
+Khvorost
+Napoleon
+Ponchiki
+Aloo pie
+Bean pie
+Bougatsa
+Buko pie
+Egg tart
+Empanada
+Gibanica
+Meat pie
+Melktert
+Pork pie
+Cipaille
+Soparnik
+Biscotti
+Biskotso
+Zwieback
+Macaroni
+Mi Goreng
+Noolputtu
+Shahe fen
+Mohnnudel
+Choco pie
+Chocolate
+Ischoklad
+Lakhamari
+Liquorice
+Polkagris
+Sprinkles
+Tableting
+Jodenkoek
+Panellets
+Rock cake
+Charlotte
+Clafoutis
+Cream pie
+Skolebrød
+Bear claw
+Bombolone
+Long John
+Maple bar
+Pastisset
+Picarones
+Prusurate
+Puff Puff
+Smultring
+Dairy mix
+Milkshake
+Screwball
+Apple pie
+Black bun
+Chess pie
+Cream pie
+Derby pie
+Fried pie
+Grape pie
+Mince pie
+Pecan pie
+Sugar pie
+Charlotte
+Charlotte
+Vatrushka
+Apple pie
+Black bun
+Bundevara
+Chess pie
+Coulibiac
+Curry pie
+Derby pie
+Fried pie
+Kalakukko
+Mince pie
+Peach pie
+Pear tart
+Pecan pie
+Steak pie
+Sugar pie
+Tourtière
+Flatbread
+Casserole
+Pastitsio
+Kaomianjin
+Saang mein
+Bubble gum
+Candy cane
+Candy corn
+Gobstopper
+Hard candy
+Haw flakes
+Jelly bean
+Kaju Katli
+Lemon drop
+Mampostial
+Nonpareils
+Rock candy
+Rocky road
+Soor ploom
+Sugar cake
+Sugar mice
+Sugar plum
+Suikerboon
+Bizcochito
+Fattigmann
+Ginger nut
+Thin Mints
+Cheesecake
+Far Breton
+Frangipane
+Miguelitos
+Pio Quinto
+Watalappam
+Fried Coke
+Gosh-e Fil
+Koeksister
+Sopaipilla
+Sufganiyah
+Penny lick
+Snow cream
+Soft serve
+Cherry pie
+Gypsy tart
+Lemon tart
+Butter pie
+Cashew pie
+Cheesecake
+Cheese pie
+Cherry pie
+Curry puff
+Homity pie
+Khachapuri
+Killie pie
+Pastafrola
+Peanut pie
+Raisin pie
+Rappie pie
+Scotch pie
+Tamale pie
+Walnut pie
+Watalappam
+Woopie pie
+Fat rascal
+Paximathia
+Bread roll
+Baked ziti
+Oil noodles
+Cup Noodles
+Schupfnudel
+Gingerbread
+Besan barfi
+Candy apple
+Chewing gum
+Churchkhela
+Dominostein
+Fruit sours
+Gulab Jamun
+Kettle corn
+Maple sugar
+Maple taffy
+Marshmallow
+Mozartkugel
+Queijadinha
+Royal icing
+Stick candy
+Sugar paste
+Szaloncukor
+Canestrelli
+Corn cookie
+Nanaimo bar
+Sandbakelse
+Stroopwafel
+Whoopie pie
+Bienenstich
+Coconut jam
+Custard pie
+Flapper pie
+Kogel mogel
+Nanaimo bar
+Norman Tart
+Profiterole
+Pumpkin pie
+Angel wings
+Brown Bobby
+Fried dough
+Funnel cake
+Loukoumades
+Sata andagi
+Arctic roll
+Custard pie
+Flapper pie
+Pumpkin pie
+Razzleberry
+Rhubarb pie
+Rijstevlaai
+Shoofly pie
+Butter tart
+Norman Tart
+Tarte Tatin
+Kogel mogel
+Boysenberry
+Butter tart
+Chiffon pie
+Flapper pie
+Flipper pie
+Pumpkin pie
+Rhubarb pie
+Shoofly pie
+Woolton pie
+Mandelbrodt
+Melba toast
+Rice noodles
+Madeira cake
+Bourbon ball
+Butterscotch
+Caramel corn
+Cotton candy
+Kesaria Peda
+Marron glacé
+Moustalevria
+Pirate coins
+Ribbon candy
+Strela candy
+Butter pecan
+Cookie dough
+Cookie salad
+Hallongrotta
+Mustacciuoli
+Rose cookies
+Sugar cookie
+Bob Andy pie
+Custard tart
+French toast
+Neenish tart
+Spotted dick
+Shuangbaotai
+Bacon sundae
+Baked Alaska
+Banana split
+Dame blanche
+Spaghettieis
+Tin roof pie
+Tutti frutti
+Banoffee pie
+Bob Andy pie
+Custard tart
+Key lime pie
+Snickers pie
+Treacle tart
+Caramel tart
+Custard tart
+Neenish tart
+Rhubarb tart
+Treacle tart
+Tula pryanik
+Banoffee pie
+Bob Andy pie
+Caramel tart
+Chestnut pie
+Custard tart
+Key lime pie
+Mustard tart
+Sausage roll
+Stargazy pie
+Treacle tart
+Macaroni pie
+Viennoiserie
